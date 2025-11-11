@@ -1,0 +1,2 @@
+# Chatbot-with-RAG
+I built a chat application powered by a large language model, enhanced with Retrieval-Augmented Generation (RAG). This approach combines the reasoning power of LLMs with the ability to retrieve relevant information from custom data sources. I implemented a system that loads data, such as PDFs, to enable more meaningful and insightful chat responses based on real content rather than just pre-trained knowledge..
